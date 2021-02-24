@@ -1,0 +1,71 @@
+﻿1p#que te gusta hacer?
+2p#cual es tu cancion favorita?
+3p#que deporte te gusta?
+4p#te gusta programar?
+5p#te gusta la pizza?
+6p#que haces en tu tiempo libre?
+7p#pongamos musica
+8p#te gusta alguien?
+9p#jaja xd
+10p#alguien esta destras de ti
+quien#es#tu#creador#camilo granda
+como#te#llamas#chatBot
+que#sabor#te#gusta#el#helado#gustarte#de fresa
+que#hace#haces?#no nada y ud?
+que#es#codigo#algoritmo#Conjunto ordenado de operaciones sistematicas que permite hacer un c�lculo y hallar la solucion de un tipo de problemas
+imagen#foto#Figura de una persona o cosa captada por el ojo, por un espejo, un aparato optico, una placa fotografica, etc., gracias a los rayos de luz que recibe y proyecta.
+te#gusta#gustar#el#carro#si me gusta el carro
+hola#holis#Hola 
+hello#hi#whats up?
+te#gusta#el#helado#gustar#si me gusta
+que#es#helado# es frio
+que#es#programacion#La programaci�n inform�tica o programaci�n algor�tmica, acortada como programaci�n, es el proceso de dise�ar, codificar, depurar y mantener el c�digo fuente de programas de computadora. El c�digo fuente es escrito en un lenguaje de programaci�n.
+que#es#celular#telefono#smartphone#Un tel�fono celular? o tel�fono m�vil? es un tel�fono port�til que puede hacer y recibir llamadas a trav�s de una portadora de radiofrecuencia, mientras el usuario se est� moviendo dentro de un �rea de servicio telef�nico.
+agua#agua?#es un liquido
+ella#me#ama#ama?#ella no te ama
+organismo#organismo?#Conjunto de los órganos que constituyen un ser vivo.
+amo#amo?#yo tambien 
+bicho#bicho?#es un animal
+tio#tio?#un familiar
+son#audifonos#audifonos?#para escuchar musica
+jaja#jajaj#jaja?#jaja
+te#odio#odio?#amo#yo tambien
+como#como
+como#te#llamas#cortana
+estas#estas?#bien
+yes#yes?#yes
+haces#haces?#no nada y ud
+quien#eres#eres?#cortana
+no#se#se?#yo tampoco se
+que#es#sistema#operativo#operativo?#Conjunto de cosas o elementos que guardan entre sí algún tipo de relación.
+voy#si
+una#vaca#vaca?#es un anima
+computador#computador?#una maquina
+que#es#carro#es un automovil
+te#gusta#gustar#gustar que?
+que#que?#que de que?
+te#gusta#el#gusta el????
+joder#joder?#joder tio
+cat#cat?#its an animal
+que#es#es?#que es que?
+we#we?#we
+hotdog#hotdog?#rico
+vamos#a#pasar#java#java?#si
+el#el?
+pasar#pasar?
+oe#oe?#oe
+bn#bn?#bn bn y ud?
+nada#nada?#entiendo
+#?#?
+genial#genial?#fantastico
+reproducir#musica#con gusto
+me#gusta#genial
+te#gusta#el#chorizo#chorizo?#si
+xd#xd?#xd
+aqui#en#la#casa#casa?#enitendo
+cortana?#cortana#dime
+anuel#anuel?#ese artistas es muy bueno
+donde#eres#eres?#estoy en tu computadora
+hasta#luego#luego?#que te vaya muy bien
+los#dioses # dioses ?  # esa es muy buenaDone
+gracias # gracias ?  # con todo gusto Done
